@@ -40,5 +40,7 @@ Before learning standard AI/ML libraries like PyTorch, I wanted to work with the
 ## Author information
 
 Najm Hoda
+
 Undergraduate Computer Science
+
 University of California, Los Angeles '28
