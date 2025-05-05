@@ -12,8 +12,8 @@ Before learning standard AI/ML libraries like PyTorch, I wanted to work with the
 ## How it was made
 
 1. I watched [3Blue1Brown's amazing series on machine learning](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=TlZeMsDixDZc1eZ0).
-2. As I watched each video, I took notes on my iPad, noting down important important formulas or visual explanations.
-3. I reorganized my notes into a single organized formula sheet with standardized notation for ease of understanding.
+2. As I watched each video, I took [notes on my iPad](/scratch_notes.pdf), noting down important important formulas or visual explanations.
+3. I reorganized my notes into a [single organized formula sheet](/organized_notes.pdf) with standardized notation for ease of understanding.
 4. I created the Google Colab, implemented the formulas, and ran the model on the MNIST dataset---no code examples/tutorials needed.
 
 ## Architecture
